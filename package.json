@@ -30,7 +30,7 @@
     "react": "^16.2.0"
   },
   "peerDependencies": {
-    "fancygrid": "^1.7.129"
+    "fancygrid": "https://github.com/blandisCGC/FancyGrid.git"
   },
   "types": "./dist/fancygrid-react.d.ts"
 }
